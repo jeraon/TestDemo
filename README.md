@@ -1,6 +1,6 @@
 # TestDemo
 
-Just a Test!
-Just a Test!
+This is master
 
+and This is first commit on master
 
